@@ -5,9 +5,11 @@ main {background-color: antiquewhite;}
 /* Align the h1 containing your name in the center of the header*/
 h1 {align-content: center;}
 /* Make your p tag a different color and italic */
-
+p {color: azure;}
+p {font-style: italic;}
 /* Put a border around your image */
-
+image {border: 0cap;}
 /* Change the font-family of your list */
-
+ul {font-family: 'Times New Roman', Times, serif;}
 /* Add a background color to the footer element */
+footer {background-color: blue;}
